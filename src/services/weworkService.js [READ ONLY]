@@ -1,0 +1,6 @@
+// 这个文件包含了企业微信的核心功能，不应该被修改
+// 包括：
+// 1. getAccessToken() - 访问令牌管理
+// 2. sendCustomerMessage() - 消息发送
+// 3. verifySignature() - 安全验证
+// 4. decryptMsg() - 消息解密 

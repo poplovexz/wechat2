@@ -1,0 +1,11 @@
+├── src/
+│   ├── config/
+│   │   └── config.js       # 配置文件
+│   ├── services/
+│   │   ├── kimiService.js  # KIMI API 服务
+│   │   └── weworkService.js # 企业微信服务
+│   ├── routes/
+│   │   └── webhook.js      # 接收消息的路由
+│   └── app.js             # 主程序入口
+├── .env                   # 环境变量（已创建）
+└── package.json 
